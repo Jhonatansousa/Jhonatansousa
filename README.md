@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jhonatan and I'm a Front-End Developer, from Brazil!</h2>
+<h2 align="left">Greetings 👋! My name is Jhonatan, I'm a Front-End Developer and I'm studying Software Engineering. This is my space to share my progress and passion for programming.</h2>
 
 ###
 
